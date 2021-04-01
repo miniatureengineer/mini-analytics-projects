@@ -1,1 +1,1 @@
-## practice
+## Mini Projects
